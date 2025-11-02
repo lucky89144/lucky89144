@@ -8,5 +8,5 @@
 <br />&nbsp;<br />&nbsp;<br /><hr />
 - [BreachPeek](https://github.com/staxsum/BreachPeek) creator/maintainer - CLI tool for searching leaked credential databases <br />
 - Discord: `@91init` <br />
-- PGP: `35F7B19C3B078864` <br />&nbsp;<br />&nbsp;<br />
+- [PGP](https://keybase.io/jaegis): `35F7B19C3B078864` <br />&nbsp;<br />&nbsp;<br />
 <hr /></div>
