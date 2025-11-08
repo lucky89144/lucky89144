@@ -31,12 +31,6 @@ Feel free to support my work through donations:
 
 ---
 
-### Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=staxsum&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
----
-
 **Current Focus:** DevSecOps | Cybersecurity automation | Privacy-first systems
 
 *Free the knowledge. Say NO to surveillance. Build cool shit. Encrypt everything.*
