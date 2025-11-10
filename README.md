@@ -1,4 +1,4 @@
-Connect with me here:
+### Connect with me here:
 
 **Discord:** `@dnsoff`  
 **Matrix:** `@staxin:matrix.org`  
@@ -24,7 +24,7 @@ Connect with me here:
 
 ---
 
-Feel free to support my work through donations:
+### Feel free to support my work through donations:
 
 - **BTC:** `bc1quavqz6cxqzfy4qtvq4zxc4fjgap3s7cmxja0k4`  
 - **ETH:** `0x5287af72afbc152b09b3bf20af3693157db9e425`  
