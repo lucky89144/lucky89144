@@ -33,8 +33,4 @@
 
 ---
 
-### current focus:
-
-**DevSecOps | Cybersecurity Automation | Privacy-First Systems**
-
 > *Free the knowledge. Say NO to surveillance. Build cool shit. Encrypt everything.*
