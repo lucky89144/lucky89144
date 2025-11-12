@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=3178C6)
 ![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&color=000000)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-informational?style=flat&logo=tailwindcss&color=06B6D4)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-informational?style=flat&logo=tailwindcss&color=06B6D4)
 ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&color=339933)
 ![Electron](https://img.shields.io/badge/Electron-informational?style=flat&logo=electron&color=47848F)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=3776AB)
@@ -19,20 +19,20 @@
 ![Windows](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&color=0078D6)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&color=FCC624)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-informational?style=flat&logo=kali-linux&color=557C94)
-![BlackArch](https://img.shields.io/badge/BlackArch-informational?style=flat&logo=arch-linux&color=000000)
+![BlackArch Linux](https://img.shields.io/badge/BlackArch-informational?style=flat&logo=arch-linux&color=000000)
 ![Canva](https://img.shields.io/badge/Canva-informational?style=flat&logo=canva&color=00C4CC)
 ![GIMP](https://img.shields.io/badge/GIMP-informational?style=flat&logo=gimp&color=574d26)
 
 ---
 
-<a href="https://github.com/staxsum/github-readme-stats">
+<a href="https://github.com/staxsum">
   <img
     height="200"
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=staxsum&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github"
   />
 </a>
-<a href="https://github.com/staxsum/github-readme-stats">
+<a href="https://github.com/staxsum">
   <img
     height="200"
     align="center"
@@ -44,10 +44,11 @@
 
 ### Connect
 
-**Discord:** `@dnsoff`  
-**Matrix:** `@staxin:matrix.org`  
-**Email:** `pub.inbox@proton.me`  
-**PGP:** `DF93BFF4FBFD6F0D`
+- **GitHub:** [github.com/staxsum](https://github.com/staxsum)  
+- **Discord:** [@dnsoff](https://discord.com/users/1347766614505951232)  
+- **Matrix:** [@staxin:matrix.org](https://matrix.to/#/@staxin:matrix.org)  
+- **Email:** [pub.inbox@proton.me](mailto:pub.inbox@proton.me)  
+- **PGP Key:** [Keybase Link](https://keybase.io/sigchain/pgp_keys.asc)
 
 ---
 
