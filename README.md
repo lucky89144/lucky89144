@@ -1,4 +1,6 @@
-**about: developer & cybersecurity enthusiast**
+### greetz!
+
+**developer & cybersecurity enthusiast**
 - email: [pub.inbox@proton.me](mailto:pub.inbox@proton.me)
 - discord: `@dnsoff` (user id: 1347766614505951232)
 - matrix: [@staxin:matrix.org](https://matrix.to/#/@staxin:matrix.org)
