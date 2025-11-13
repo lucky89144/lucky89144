@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Kali-557C94?style=plastic&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/BlackArch-333333?style=plastic&logo=archlinux&logoColor=white" />
 
-**if you find my work useful, consider supporting my development:**
+**if you find my work useful, consider supporting development:**
 - btc: `3AjgntVi2Dh7oxSmxPS7uDwU1A7i3pmCT3`
 - eth: `0x5287af72afbc152b09b3bf20af3693157db9e425` 
 - sol: `HYZjfEx8NbEMJX1vL1GmGj39zA6TgMsHm5KCHWSZxF4j`
